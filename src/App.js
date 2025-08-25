@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.          
         </p>
-        <p>
+        <p className='subHeading'>
           Hey, this is Git Session.
         </p>
         <a
