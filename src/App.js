@@ -10,7 +10,8 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.          
         </p>
         <p className='subHeading'>
-          Hey, this is Git Session & today is Tuesday 26th Aug.
+          Hey, this is Git Session & today is Tuesday 26th August. <br/>
+          And it's a beautiful sunny Day.
         </p>
 
         <button>Click Here!</button>
