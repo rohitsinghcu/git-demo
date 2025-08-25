@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.          
         </p>
         <p className='subHeading'>
-          Hey, this is Git Session.
+          Hey, this is Git Session & today is Tuesday.
         </p>
         <a
           className="App-link"
